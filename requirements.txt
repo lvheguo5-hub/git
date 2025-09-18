@@ -1,0 +1,13 @@
+# 图片描述生成工具 - 依赖包
+# 使用以下命令安装依赖：
+# pip3 install -r requirements.txt
+
+# GUI相关
+pillow>=9.0.0
+requests>=2.25.0
+
+# 异步HTTP请求
+aiohttp>=3.8.0
+
+# 可选：如果您想使用Groq API，还需要安装
+# openai>=1.0.0
